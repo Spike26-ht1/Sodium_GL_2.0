@@ -1,0 +1,41 @@
+pack.description=§l§f(2.0.2)Cấu hình hạt trong trò chơi!, §aSodium §fGL của TTK: §a@BRSpike26§f và §6OpenTeam§f
+
+sp.label.xp=Hiển thị quả cầu XP
+
+sp.label.bloock=Hạt từ khối\n — Tùy chọn này khiến một số khối phát ra hạt.
+
+sp.label.break=Hạt khi phá khối\n — Tùy chọn này khiến khối phát ra hạt khi bị phá.
+
+sp.label.water=Hạt nước bắn\n — Tùy chọn này điều khiển bong bóng, nước bắn và các hạt nước khác.
+
+sp.label.fire=Hạt lửa\n — Tùy chọn này điều khiển lửa, khói và các hạt liên quan đến lửa.
+
+sp.label.potions=Hạt thuốc\n — Tùy chọn này hiển thị hạt thuốc và các hiệu ứng phép thuật.
+
+sp.label.potiontwo=Kích thước hạt thuốc.
+
+sp.label.crit=Hạt chí mạng\nTùy chọn này điều khiển các hạt từ đòn tấn công và đòn đánh.
+
+sp.label.crittwo=Kích thước hạt chí mạng.
+
+sp.label.une=Hạt không cần thiết\n - Các hạt không cần thiết vẫn tồn tại trong môi trường.
+
+sp.label.totem=Hạt Totem\n — Tùy chọn này hiển thị các hạt xuất hiện khi sử dụng Totem Bất Tử.
+
+sp.label.totemtwo=Kích thước hạt Totem.
+
+sp.label.sculk=Hạt sculk\n — Tùy chọn này điều khiển rung động, cảm biến và các hạt sculk.
+
+sp.label.danger=Hạt nguy hiểm\n — Tùy chọn này hiển thị các hạt giúp nhận biết nguy hiểm và đòn tấn công của sinh vật.
+
+sp.label.weather=Hạt thời tiết\n — Tùy chọn này điều khiển hạt mưa, tuyết và các hiệu ứng thời tiết.
+
+sp.label.mace=Hạt chùy\n — Tùy chọn này điều khiển các hạt khi chùy va chạm.
+
+sp.label.leaves=Hạt lá\n — Tùy chọn này điều khiển các hạt lá từ cây.
+
+sp.label.part=--------------------------------------------------------\n§lHạt:§r
+
+sp.label.render=--------------------------------------------------------\n§lKết xuất:§r
+
+sp.label.readme=§aSodium§r GL thay đổi một số khía cạnh của RenderDragon để mang lại hiệu suất ổn định, và gói kết cấu cho phép bạn tùy chỉnh các hạt (bật hoặc tắt hạt trong menu cài đặt!)\n- Không thay đổi kết cấu.\n- Không xóa hoạt ảnh.\n- Yêu cầu MB Loader hoặc BetterRenderDragon trên PC.

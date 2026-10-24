@@ -1,0 +1,112 @@
+{
+  "// autor": "BRSpike26",
+  "resource_pack_name": "Grass",
+  "texture_name": "atlas.terrain",
+  "num_mip_levels": 0,
+  "padding": 8,
+
+  "texture_data": {
+
+    "grass_top": {
+      "textures": "textures/blocks/grass_top"
+    },
+    "grass_side": {
+      "textures": [
+        { "overlay_color": "#4caf3c", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#5cbf46", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#6fc850", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#7fd05a", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#8ed863", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#9de06e", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#3fae5c", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#4bb86c", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#57c07c", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#63c88a", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#2f9e4a", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#38a856", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#6fb52e", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#83bd45", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#97c55c", "path": "textures/blocks/grass_top" },
+        "textures/blocks/snow"
+      ]
+    },
+    "grass_bottom": {
+      "textures": [
+        { "overlay_color": "#4caf3c", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#5cbf46", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#6fc850", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#7fd05a", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#8ed863", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#9de06e", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#3fae5c", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#4bb86c", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#57c07c", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#63c88a", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#2f9e4a", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#38a856", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#6fb52e", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#83bd45", "path": "textures/blocks/grass_top" },
+        { "overlay_color": "#97c55c", "path": "textures/blocks/grass_top" },
+        "textures/blocks/snow"
+      ]
+    },
+    "grass_side_snowed": {
+      "textures": "textures/blocks/snow"
+    },
+    "grass_bottom_snowed": {
+      "textures": "textures/blocks/snow"
+    },
+
+    "grass_path_top": {
+      "textures": "textures/blocks/grass_path_top"
+    },
+    "grass_path_side": {
+      "textures": "textures/blocks/grass_path_top"
+    },
+    "grass_path_bottom": {
+      "textures": "textures/blocks/grass_path_top"
+    },
+
+    "mycelium_top": {
+      "textures": "textures/blocks/mycelium_top"
+    },
+    "mycelium_side": {
+      "textures": "textures/blocks/mycelium_top"
+    },
+    "mycelium_bottom": {
+      "textures": "textures/blocks/mycelium_top"
+    },
+
+    "dirt_podzol_top": {
+      "textures": "textures/blocks/dirt_podzol_top"
+    },
+    "dirt_podzol_side": {
+      "textures": "textures/blocks/dirt_podzol_top"
+    },
+    "dirt_podzol_bottom": {
+      "textures": "textures/blocks/dirt_podzol_top"
+    },
+
+    "crimson_nylium_top": {
+      "textures": "textures/blocks/crimson_nylium_top"
+    },
+    "crimson_nylium_side": {
+      "textures": "textures/blocks/crimson_nylium_top"
+    },
+    "crimson_nylium_bottom": {
+      "textures": "textures/blocks/crimson_nylium_top"
+    },
+
+    "warped_nylium_top": {
+      "textures": "textures/blocks/warped_nylium_top"
+    },
+    "warped_nylium_side": {
+      "textures": "textures/blocks/warped_nylium_top"
+    },
+    "warped_nylium_bottom": {
+      "textures": "textures/blocks/warped_nylium_top"
+    },
+
+    "_author": "BRSpike26"
+  }
+}

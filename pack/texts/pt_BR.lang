@@ -1,0 +1,41 @@
+pack.description=§l§f(2.0.2)Configure as partículas no jogo!, §aSodium §fGL por TTK: §a@BRSpike26§f e §6OpenTeam§f
+
+sp.label.xp=Renderização de Orbes de XP
+
+sp.label.bloock=Partículas de blocos\n — Esta opção faz certos blocos emitirem partículas.
+
+sp.label.break=Partículas ao quebrar blocos\n — Esta opção faz os blocos emitirem partículas quando são quebrados.
+
+sp.label.water=Partículas de respingos de água\n — Esta opção controla bolhas, respingos e outras partículas de água.
+
+sp.label.fire=Partículas de fogo\n — Esta opção controla chamas, fumaça e partículas relacionadas ao fogo.
+
+sp.label.potions=Partículas de poções\n — Esta opção exibe partículas de poções e efeitos mágicos.
+
+sp.label.potiontwo=Tamanho das partículas de poções.
+
+sp.label.crit=Partículas críticas\nEsta opção controla as partículas de ataques e golpes.
+
+sp.label.crittwo=Tamanho das partículas críticas.
+
+sp.label.une=Partículas desnecessárias\n - Partículas inúteis que permanecem no ambiente.
+
+sp.label.totem=Partículas de totem\n — Esta opção mostra as partículas exibidas ao usar um Totem da Imortalidade.
+
+sp.label.totemtwo=Tamanho das partículas de totem.
+
+sp.label.sculk=Partículas de sculk\n — Esta opção controla vibrações, sensores e partículas de sculk.
+
+sp.label.danger=Partículas de perigo\n — Esta opção exibe partículas que ajudam a identificar perigos e ataques de criaturas.
+
+sp.label.weather=Partículas climáticas\n — Esta opção controla partículas de chuva e neve e efeitos climáticos.
+
+sp.label.mace=Partículas da maça\n — Esta opção controla as partículas do impacto da maça.
+
+sp.label.leaves=Partículas de folhas\n — Esta opção controla as partículas de folhas das árvores.
+
+sp.label.part=--------------------------------------------------------\n§lPartículas:§r
+
+sp.label.render=--------------------------------------------------------\n§lRenderização:§r
+
+sp.label.readme=§aSodium§r GL modifica aspectos do RenderDragon para oferecer um desempenho estável, e o pacote de texturas permite modificar as partículas (ative ou desative partículas no menu de configurações!)\n- Não modifica texturas.\n- Não remove animações.\n- Requer MB Loader ou, no PC, BetterRenderDragon.

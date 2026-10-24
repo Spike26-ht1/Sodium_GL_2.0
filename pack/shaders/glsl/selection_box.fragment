@@ -1,0 +1,8 @@
+// __multiversion__
+// White selection-box fragment override.
+#include "fragmentVersionSimple.h"
+
+void main()
+{
+    gl_FragColor = vec4(1.0, 1.0, 1.0, 1.0);
+}

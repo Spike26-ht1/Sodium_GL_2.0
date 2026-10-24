@@ -1,0 +1,175 @@
+{
+  "format_version": 3,
+  "header": {
+    "name": "§l§fSodium GL §5Reimagined§f 2.0",
+    "description": "pack.description",
+    "uuid": "d7a9f4e2-8c31-4f6b-a92d-5e7c1b8f3a64",
+    "version": "2.0.2",
+    "min_engine_version": "1.26.50",
+    "pack_optimization_version": "0.1.0"
+  },
+  "modules": [
+    {
+      "description": "BRSpike26",
+      "type": "resources",
+      "uuid": "41b8c6d3-9e25-47af-b3c8-2d7f5a1e9b60",
+      "version": "2.0.2"
+    }
+  ],
+  "capabilities": [
+    "pbr"
+  ],
+  "metadata": {
+    "authors": [
+      "BRSpike26"
+    ],
+    "url": "https://github.com/Spike26-ht1/Sodium_GL_2.0"
+  },
+  "subpacks": [
+    {
+      "folder_name": "betternograss",
+      "memory_performance_tier": 0,
+      "name": "§lVibrant Visuals Otimizer - No §aFull Grass§r"
+    },
+    {
+      "folder_name": "better",
+      "memory_performance_tier": 0,
+      "name": "§lVibrant Visuals Otimizer - §aFull Grass§r"
+    },
+    {
+      "folder_name": "no2",
+      "memory_performance_tier": 0,
+      "name": "§lNo §aFull Grass§r"
+    },
+    {
+      "folder_name": "yes1",
+      "memory_performance_tier": 0,
+      "name": "§l§aFull Grass§r"
+    }
+  ],
+  "settings": [
+    {
+      "type": "label",
+      "text": "sp.label.render"
+    },
+    {
+      "type": "toggle",
+      "text": "sp.label.xp",
+      "name": "spike:xp_orb",
+      "default": true
+    },
+    {
+      "type": "label",
+      "text": "sp.label.part"
+    },
+    {
+      "type": "toggle",
+      "text": "sp.label.bloock",
+      "name": "spike:block_particles",
+      "default": true
+    },
+    {
+      "type": "toggle",
+      "text": "sp.label.break",
+      "name": "spike:break_particles",
+      "default": true
+    },
+    {
+      "type": "toggle",
+      "text": "sp.label.water",
+      "name": "spike:water_particles",
+      "default": true
+    },
+    {
+      "type": "toggle",
+      "text": "sp.label.fire",
+      "name": "spike:fire_particles",
+      "default": true
+    },
+    {
+      "type": "toggle",
+      "text": "sp.label.potions",
+      "name": "spike:potion",
+      "default": true
+    },
+    {
+      "type": "slider",
+      "text": "sp.label.potiontwo",
+      "name": "spike:potion_size",
+      "min": 1,
+      "max": 20,
+      "step": 1,
+      "default": 10
+    },
+    {
+      "type": "toggle",
+      "text": "sp.label.crit",
+      "name": "spike:crit",
+      "default": true
+    },
+    {
+      "type": "slider",
+      "text": "sp.label.crittwo",
+      "name": "spike:crit_size",
+      "min": 1,
+      "max": 20,
+      "step": 1,
+      "default": 10
+    },
+    {
+      "type": "toggle",
+      "text": "sp.label.une",
+      "name": "spike:combat_particles",
+      "default": true
+    },
+    {
+      "type": "toggle",
+      "text": "sp.label.totem",
+      "name": "spike:totem",
+      "default": true
+    },
+    {
+      "type": "slider",
+      "text": "sp.label.totemtwo",
+      "name": "spike:totem_size",
+      "min": 1,
+      "max": 20,
+      "step": 1,
+      "default": 10
+    },
+    {
+      "type": "toggle",
+      "text": "sp.label.sculk",
+      "name": "spike:sculk_particles",
+      "default": true
+    },
+    {
+      "type": "toggle",
+      "text": "sp.label.danger",
+      "name": "spike:danger_particles",
+      "default": true
+    },
+    {
+      "type": "toggle",
+      "text": "sp.label.weather",
+      "name": "spike:weather_particles",
+      "default": true
+    },
+    {
+      "type": "toggle",
+      "text": "sp.label.mace",
+      "name": "spike:mace_particles",
+      "default": true
+    },
+    {
+      "type": "toggle",
+      "text": "sp.label.leaves",
+      "name": "spike:leaves",
+      "default": true
+    },
+    {
+      "type": "label",
+      "text": "sp.label.readme"
+    }
+  ]
+}

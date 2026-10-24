@@ -1,0 +1,41 @@
+pack.description=§l§f(2.0.2)Partikel im Spiel konfigurieren!, §aSodium §fGL von TTK: §a@BRSpike26§f und §6OpenTeam§f
+
+sp.label.xp=XP-Kugel-Rendering
+
+sp.label.bloock=Blockpartikel\n — Diese Option lässt bestimmte Blöcke Partikel erzeugen.
+
+sp.label.break=Partikel beim Blockabbau\n — Diese Option lässt Blöcke beim Zerstören Partikel erzeugen.
+
+sp.label.water=Wasserspritzpartikel\n — Diese Option steuert Blasen, Spritzer und andere Wasserpartikel.
+
+sp.label.fire=Feuerpartikel\n — Diese Option steuert Flammen, Rauch und feuerbezogene Partikel.
+
+sp.label.potions=Trankpartikel\n — Diese Option zeigt Trankpartikel und magische Effekte an.
+
+sp.label.potiontwo=Größe der Trankpartikel.
+
+sp.label.crit=Kritische Partikel\nDiese Option steuert Partikel von Angriffen und Treffern.
+
+sp.label.crittwo=Größe der kritischen Partikel.
+
+sp.label.une=Unnötige Partikel\n - Nutzlose Partikel, die in der Umgebung verbleiben.
+
+sp.label.totem=Totempartikel\n — Diese Option zeigt die Partikel an, die beim Verwenden eines Totems der Unsterblichkeit erscheinen.
+
+sp.label.totemtwo=Größe der Totempartikel.
+
+sp.label.sculk=Sculk-Partikel\n — Diese Option steuert Vibrationen, Sensoren und Sculk-Partikel.
+
+sp.label.danger=Gefahrenpartikel\n — Diese Option zeigt Partikel an, die dabei helfen, Gefahren und Kreaturenangriffe zu erkennen.
+
+sp.label.weather=Wetterpartikel\n — Diese Option steuert Regen- und Schneepartikel sowie Wettereffekte.
+
+sp.label.mace=Streitkolben-Partikel\n — Diese Option steuert die Partikel beim Aufprall des Streitkolbens.
+
+sp.label.leaves=Blattpartikel\n — Diese Option steuert Blattpartikel von Bäumen.
+
+sp.label.part=--------------------------------------------------------\n§lPartikel:§r
+
+sp.label.render=--------------------------------------------------------\n§lRendering:§r
+
+sp.label.readme=§aSodium§r GL verändert Aspekte von RenderDragon, um eine stabile Leistung zu ermöglichen, und das Texturpaket erlaubt es, Partikel zu ändern (Partikel im Einstellungsmenü aktivieren oder deaktivieren!)\n- Verändert keine Texturen.\n- Entfernt keine Animationen.\n- Benötigt MB Loader oder auf dem PC BetterRenderDragon.

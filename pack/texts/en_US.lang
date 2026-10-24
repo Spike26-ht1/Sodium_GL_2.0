@@ -1,0 +1,41 @@
+pack.description=§l§f(2.0.2)Config particles in game!, §aSodium §fGL by TTK: §a@BRSpike26§f and §6OpenTeam§f
+
+sp.label.xp=XP Orb Render
+
+sp.label.bloock=Block particles\n — This option makes certain blocks emit particles.
+
+sp.label.break=Break block particles\n — This option makes blocks emit particles when broken.
+
+sp.label.water=Water splash particles\n — This option controls bubbles, splashes, and other water particles.
+
+sp.label.fire=Fire particles\n — This option controls flames, smoke, and fire-related particles.
+
+sp.label.potions=Potion particles\n — This option displays potion particles and magical effects.
+
+sp.label.potiontwo=Potions particles size.
+
+sp.label.crit=Critical Particles\nThis option controls viral particles from attacks and hits.
+
+sp.label.crittwo=Critical particles size.
+
+sp.label.une=Unnecessary particles\n - Useless particles that remain in the environment.
+
+sp.label.totem=Totem particles\n — This option shows the particles displayed when using a Totem of Undying.
+
+sp.label.totemtwo=Totem particles size.
+
+sp.label.sculk=Sculk particles\n — This option controls vibrations, sensors, and sculk particles.
+
+sp.label.danger=Danger particles\n — This option displays particles that help identify dangers and creature attacks.
+
+sp.label.weather=Weather particles\n — This option controls rain and snow particles and weather effects.
+
+sp.label.mace=Mace particles\n — This option controls mace impact particles.
+
+sp.label.leaves=Leaves particles\n — This option controls leaf particles from trees.
+
+sp.label.part=--------------------------------------------------------\n§lParticles:§r
+
+sp.label.render=--------------------------------------------------------\n§lRendering:§r
+
+sp.label.readme=§aSodium§r GL modifies aspects of Renderdragon to deliver stable performance, and the texture pack allows you to modify particles (enable or disable particles in your settings menu!)\n- Does not modify textures.\n- Does not remove animations.\n- Requires MB Loader, or BetterRenderDragon on PC.
